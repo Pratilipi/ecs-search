@@ -40,7 +40,7 @@ simplejson==3.10.0
 singledispatch==3.4.0.3
 six==1.10.0
 solrpy==0.9.7
-ujson==1.35
+ujson==5.4.0
 urllib3==1.22
 wrapt==1.10.10
 algoliasearch==1.15.3
